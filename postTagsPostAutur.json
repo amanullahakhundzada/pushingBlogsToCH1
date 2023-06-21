@@ -1,0 +1,27 @@
+"postTags": {
+    "value": [
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "o0JzLiWpPEiZ-SE1LN-N1g",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/o0JzLiWpPEiZ-SE1LN-N1g"
+      },
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "eV16rwwqmUKZ-iAykT16uw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/eV16rwwqmUKZ-iAykT16uw"
+      }
+    ],
+    "type": "Reference"
+  },
+  "postAuthors": {
+    "value": [
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "mNz0HvJOM0utClIiTOpAdA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/mNz0HvJOM0utClIiTOpAdA"
+      }
+    ],
+    "type": "Reference"

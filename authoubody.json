@@ -1,0 +1,13 @@
+{
+    "contentTypeId": "blogAuthor" ,
+     "name":  "author" ,
+    "fields": {
+      "authorFirstName": {
+        "value": ""
+      },
+      "authorLastName": {
+        "value": ""
+      }
+  }
+    
+  }

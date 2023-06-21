@@ -1,0 +1,9 @@
+{
+    "contentTypeId" : "blogTag" ,
+     "name":  "tag" ,
+     "fields": {
+        "tagDescription": {
+          "value": "null"
+        }
+    }
+ }
