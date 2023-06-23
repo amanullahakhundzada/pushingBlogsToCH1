@@ -10,8 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
     "fs": "^0.0.1-security",
+    "he": "^1.2.0",
+    "html-entities": "^2.3.6",
     "node-fetch": "^3.3.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "puppeteer": "^20.7.3",
+    "sanitize-filename": "^1.6.3"
   }
 }
